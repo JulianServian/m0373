@@ -1,3 +1,3 @@
 # sesion 1
 
--[x] Estructura básica HTML
+- [x] Estructura básica HTML
